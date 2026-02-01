@@ -1,35 +1,40 @@
-# Sprint 1 – HTML, CSS, JavaScript Essentials
+# 🚀 Sprint 1 – HTML, CSS & JavaScript Essentials
 
 ## 📌 Sprint Overview
-Sprint 1 focuses on building a strong foundation in frontend web development using **HTML5, CSS3, and JavaScript**. The sprint emphasizes creating responsive static pages and adding interactivity using vanilla JavaScript.
+Sprint 1 focuses on building a strong frontend foundation using **HTML5, CSS3, and Vanilla JavaScript**. This sprint covers responsive layout creation, clean styling practices, and real interactivity through JavaScript and DOM manipulation.
 
 ---
 
 ## 📚 Topics Covered
-- HTML5 Semantic Tags  
-- CSS3  
-  - Flexbox  
-  - Grid Layout  
-- JavaScript Basics  
-- DOM Manipulation  
-- Event Handling  
+- **HTML5**
+  - Semantic elements
+- **CSS3**
+  - Flexbox
+  - Grid Layout
+  - Responsive design
+- **JavaScript**
+  - Basics & syntax
+  - DOM Manipulation
+  - Event Handling
+  - Dynamic UI updates
 
 ---
 
 ## 🎯 Learning Outcomes
 By completing this sprint, I was able to:
-- Build responsive static web pages
-- Use modern CSS layout techniques (Flexbox & Grid)
-- Handle JavaScript events
+- Build responsive and structured web pages
+- Use modern CSS layout systems (Flexbox & Grid)
+- Write clean vanilla JavaScript
+- Handle user interactions using events
 - Manipulate the DOM dynamically
-- Create interactive UI components using plain JavaScript
+- Develop simple interactive web applications without frameworks
 
 ---
 
 ## 🛠️ Tasks Assigned
-- Clone a landing page (e.g., blog)
+- Clone a landing page (blog-style UI)
 - JavaScript form handling & DOM interaction
-- Create a simple To-Do List using HTML, CSS, and JavaScript
+- Create a To-Do List using HTML, CSS, and JavaScript
 
 ---
 
@@ -38,15 +43,15 @@ By completing this sprint, I was able to:
 ### 1️⃣ Blog Landing Page
 - Developed using HTML5 semantic elements
 - Styled with CSS3 using Flexbox and Grid
-- Responsive layout
-- Clean and structured blog-style landing page
+- Fully responsive layout
+- Clean and structured blog-style design
 
 ### 2️⃣ To-Do List Application
 - Built using HTML, CSS, and JavaScript
 - Features:
   - Add tasks
   - Delete tasks
-  - Dynamic updates using DOM manipulation
+  - Real-time UI updates using DOM manipulation
 - Demonstrates JavaScript logic and event handling
 
 ---
@@ -54,12 +59,11 @@ By completing this sprint, I was able to:
 ## 🧰 Technologies Used
 - HTML5  
 - CSS3  
-- JavaScript  
+- JavaScript (Vanilla)
 
 ---
 
 ## 📂 Project Structure
-
 Sprint-1/
 │
 ├── blog-page/
@@ -74,13 +78,14 @@ Sprint-1/
 └── README.md
 
 
+
 ---
 
-## 📌 Branch Information
-- **Branch Name:** Sprint-1
-- Contains all tasks completed for Sprint 1
+## 🌿 Branch Information
+- **Branch Name:** `Sprint-1`
+- Contains all completed tasks for Sprint 1
 
 ---
 
 ## 🏁 Summary
-Sprint 1 strengthened my understanding of frontend fundamentals and prepared me for advanced concepts in upcoming sprints.
+Sprint 1 strengthened my understanding of frontend fundamentals by combining structure (HTML), styling (CSS), and behavior (JavaScript). This sprint provides a solid foundation for more advanced frontend development in upcoming sprints.
