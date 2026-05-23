@@ -61,8 +61,4 @@ An interactive form application that:
 
 ---
 
-## 🚀 How to Run the Project
 
-### 1️⃣ Clone the Repository
-```bash
-git clone <repository-url>
