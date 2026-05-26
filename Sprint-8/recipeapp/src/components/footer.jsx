@@ -7,13 +7,13 @@ function Footer() {
     <footer className="footer">
       <p>© 2025 Recipe Book | Good food is the foundation of happiness 🍴</p>
       <div className="social-links">
-        <a href="#" aria-label="Instagram">
+        <a href="https://www.instagram.com" aria-label="Instagram">
           <FaInstagram />
         </a>
-        <a href="#" aria-label="Facebook">
+        <a href="https://www.facebook.com" aria-label="Facebook">
           <FaFacebookF />
         </a>
-        <a href="#" aria-label="Twitter">
+        <a href="https://www.twitter.com" aria-label="Twitter">
           <FaTwitter />
         </a>
       </div>
