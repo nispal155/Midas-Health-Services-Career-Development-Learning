@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import Header from "../components/Header";
 import Footer from "../components/footer";
 import "./pages.css";
 
@@ -18,7 +17,7 @@ function Contact({ setIsAuthenticated }) {
 
   return (
     <div className="page-container">
-      
+
       <main>
         <h2>Contact Us</h2>
         <form onSubmit={handleSubmit} className="form-box">
